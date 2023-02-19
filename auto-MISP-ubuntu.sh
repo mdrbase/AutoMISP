@@ -8,8 +8,8 @@
 #these will be the passwords you use to access mariadb as root/misp
 # DO NOT USE single quotes (''), double quotes (""), back ticks (``), ampersands (&), semi-colons (;) or spaces ( ) for your password -- they will break the script in fun and unique ways.
 #These passwords are default values. You can use them, but I very highly suggest changing them.
-root_mysql_pass='ayylmaoayylmaoayylmaoayylmao'
-misp_mysql_pass='ayylmaoayylmaoayylmaoayylmao'
+root_mysql_pass='Asher2013!'
+misp_mysql_pass='Asher2013!'
 
 ########################################
 #This line unsets some environment variables just for the shell script to run. This is done to ensure that passwords are NOT logged to your .*history files.
